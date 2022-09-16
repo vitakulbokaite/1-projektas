@@ -1,5 +1,5 @@
 # 1-projektas
-v0.1 pirmas varinatas
+# v0.1 pirmas variantas
 
 * Sukurtas meniu ar baigti duomenų įvedimą ar įvesti kito studento duomenis
 * Sukurta struktūra "studentas"
